@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy | B2A Cash Buyers - B2A LLC</title>
+    <meta name="description" content="Privacy Policy for B2A Cash Buyers, operated by B2A LLC. Learn how we collect, use, and protect your personal information including SMS communications.">
+    <link rel="icon" href="favicon.ico" sizes="any">
+    <link rel="canonical" href="https://b2acashbuyers.com/privacy-policy.html" />
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        body {
+            font-family: 'Inter', sans-serif;
+        }
+        .gradient-text {
+            background: linear-gradient(to right, #2563EB, #14B8A6);
+            -webkit-background-clip: text;
+            background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+    </style>
+</head>
+<body class="bg-white text-gray-800">
+    <header class="bg-white shadow-sm sticky top-0 z-50">
+        <div class="container mx-auto px-6 py-4 flex justify-between items-center">
+            <a href="index.html" class="text-2xl font-bold text-blue-600">B2A Cash Buyers</a>
+            <a href="index.html#contact-form-section" class="bg-gradient-to-r from-blue-600 to-teal-500 text-white font-bold py-2 px-5 rounded-lg hover:opacity-90 transition">Get Cash Offer</a>
+        </div>
+    </header>
+
+    <main class="container mx-auto px-6 py-12 max-w-4xl">
+        <div class="mb-8">
+            <h1 class="text-4xl font-bold gradient-text mb-4">Privacy Policy</h1>
+            <p class="text-gray-600">Effective Date: January 1, 2025</p>
+            <p class="text-gray-600">Last Updated: January 1, 2025</p>
+        </div>
+
+        <div class="space-y-8">
+            <section>
+                <h2 class="text-2xl font-bold text-gray-800 mb-4">Company Information</h2>
+                <p class="text-gray-700 leading-relaxed">
+                    This Privacy Policy applies to B2A Cash Buyers, operated by <strong>B2A LLC</strong>. B2A LLC is a limited liability company that specializes in purchasing land and providing real estate solutions across Florida, Arizona, and Texas.
+                </p>
+            </section>
+
+            <section>
+                <h2 class="text-2xl font-bold text-gray-800 mb-4">Information We Collect</h2>
+                <div class="space-y-4">
+                    <div>
+                        <h3 class="text-lg font-semibold text-gray-800">Personal Information</h3>
+                        <p class="text-gray-700">When you use our services or contact us, we may collect:</p>
+                        <ul class="list-disc list-inside text-gray-700 mt-2 space-y-1">
+                            <li>Name and contact information (email address, phone number, mailing address)</li>
+                            <li>Property information (address, size, zoning, ownership details)</li>
+                            <li>Financial information related to your property (purchase price, liens, desired selling price)</li>
+                            <li>Communication preferences and history</li>
+                        </ul>
+                    </div>
+                    <div>
+                        <h3 class="text-lg font-semibold text-gray-800">Technical Information</h3>
+                        <p class="text-gray-700">We may automatically collect technical information including:</p>
+                        <ul class="list-disc list-inside text-gray-700 mt-2 space-y-1">
+                            <li>IP address and browser information</li>
+                            <li>Website usage data and analytics</li>
+                            <li>Cookies and similar tracking technologies</li>
+                        </ul>
+                    </div>
+                </div>
+            </section>
+
+            <section>
+                <h2 class="text-2xl font-bold text-gray-800 mb-4">SMS Communications and Consent</h2>
+                <div class="bg-blue-50 border-l-4 border-blue-500 p-4 mb-4">
+                    <p class="text-gray-800 font-semibold">Important Notice About Text Messages:</p>
+                </div>
+                <div class="space-y-4">
+                    <p class="text-gray-700 leading-relaxed">
+                        <strong>By providing your phone number to B2A LLC through our website, forms, or any other means, you explicitly consent to receive text messages (SMS) from us regarding our land buying services.</strong>
+                    </p>
+                    <p class="text-gray-700 leading-relaxed">
+                        SMS communications may include:
+                    </p>
+                    <ul class="list-disc list-inside text-gray-700 space-y-1">
+                        <li>Property evaluation updates and cash offer details</li>
+                        <li>Appointment confirmations and scheduling</li>
+                        <li>Follow-up questions about your property</li>
+                        <li>Transaction status updates and closing information</li>
+                    </ul>
+                    <p class="text-gray-700 leading-relaxed">
+                        You may receive messages from automated systems as well as our human team members. Message and data rates may apply. You can opt out of text messages at any time by replying "STOP" to any text message or by contacting us directly.
+                    </p>
+                </div>
+            </section>
+
+            <section>
+                <h2 class="text-2xl font-bold text-gray-800 mb-4">How We Use Your Information</h2>
+                <p class="text-gray-700 leading-relaxed mb-4">We use the information we collect to:</p>
+                <ul class="list-disc list-inside text-gray-700 space-y-1">
+                    <li>Evaluate your property and provide cash offers</li>
+                    <li>Communicate with you about our services and your property</li>
+                    <li>Process transactions and complete land purchases</li>
+                    <li>Comply with legal and regulatory requirements</li>
+                    <li>Improve our website and services</li>
+                    <li>Send you relevant information about our services (with your consent)</li>
+                </ul>
+            </section>
+
+            <section>
+                <h2 class="text-2xl font-bold text-gray-800 mb-4">Information Sharing</h2>
+                <p class="text-gray-700 leading-relaxed mb-4">We do not sell, trade, or rent your personal information to third parties. We may share your information only in the following circumstances:</p>
+                <ul class="list-disc list-inside text-gray-700 space-y-1">
+                    <li>With our trusted service providers who assist us in operating our business</li>
+                    <li>When required by law or to protect our legal rights</li>
+                    <li>With your explicit consent</li>
+                    <li>In connection with a business transfer or sale</li>
+                </ul>
+            </section>
+
+            <section>
+                <h2 class="text-2xl font-bold text-gray-800 mb-4">Data Security</h2>
+                <p class="text-gray-700 leading-relaxed">
+                    We implement appropriate technical and organizational security measures to protect your personal information against unauthorized access, alteration, disclosure, or destruction. However, no method of transmission over the internet or electronic storage is 100% secure.
+                </p>
+            </section>
+
+            <section>
+                <h2 class="text-2xl font-bold text-gray-800 mb-4">Your Rights</h2>
+                <p class="text-gray-700 leading-relaxed mb-4">You have the right to:</p>
+                <ul class="list-disc list-inside text-gray-700 space-y-1">
+                    <li>Access, update, or delete your personal information</li>
+                    <li>Opt out of marketing communications</li>
+                    <li>Request information about how we use your data</li>
+                    <li>File a complaint with regulatory authorities if applicable</li>
+                </ul>
+            </section>
+
+            <section>
+                <h2 class="text-2xl font-bold text-gray-800 mb-4">Cookies and Tracking</h2>
+                <p class="text-gray-700 leading-relaxed">
+                    Our website uses cookies and similar tracking technologies to enhance your browsing experience, analyze website traffic, and provide personalized content. You can control cookie preferences through your browser settings.
+                </p>
+            </section>
+
+            <section>
+                <h2 class="text-2xl font-bold text-gray-800 mb-4">Changes to This Policy</h2>
+                <p class="text-gray-700 leading-relaxed">
+                    We may update this Privacy Policy from time to time. Any changes will be posted on this page with an updated effective date. We encourage you to review this policy periodically.
+                </p>
+            </section>
+
+            <section>
+                <h2 class="text-2xl font-bold text-gray-800 mb-4">Contact Information</h2>
+                <p class="text-gray-700 leading-relaxed mb-4">
+                    If you have any questions about this Privacy Policy or our data practices, please contact us:
+                </p>
+                <div class="bg-gray-50 p-4 rounded-lg">
+                    <p class="text-gray-700"><strong>B2A LLC</strong></p>
+                    <p class="text-gray-700">Doing business as: B2A Cash Buyers</p>
+                    <p class="text-gray-700">Website: <a href="https://b2acashbuyers.com" class="text-blue-600 hover:underline">https://b2acashbuyers.com</a></p>
+                    <p class="text-gray-700">Email: Available through our contact form</p>
+                </div>
+            </section>
+        </div>
+
+        <div class="mt-12 text-center">
+            <a href="index.html" class="bg-gradient-to-r from-blue-600 to-teal-500 text-white font-bold py-3 px-8 rounded-lg hover:opacity-90 transition">Back to Home</a>
+        </div>
+    </main>
+
+    <footer class="bg-gray-100 border-t border-gray-200">
+        <div class="container mx-auto px-6 py-8 text-center text-gray-500">
+            <p>© 2025 B2A Cash Buyers - B2A LLC. All Rights Reserved.</p>
+            <div class="mt-2">
+                <a href="privacy-policy.html" class="text-blue-600 hover:underline">Privacy Policy</a>
+            </div>
+        </div>
+    </footer>
+</body>
+</html>

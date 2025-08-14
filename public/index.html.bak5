@@ -1,0 +1,725 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sell Your Land for Cash in Florida, Arizona & Texas | B2A Investments LLC - Tampa, Palm Bay, Phoenix</title>
+    <meta name="description" content="B2A Investments LLC specializes in helping landowners in Florida, Arizona, and Texas sell their land for cash. We purchase land before tax deed auctions and offer fair, hassle-free solutions. Serving Tampa FL, Palm Bay FL, and Phoenix AZ areas.">
+    <meta name="keywords" content="sell land cash Tampa FL, sell land cash Palm Bay FL, sell land cash Phoenix AZ, land buyers Florida, land buyers Arizona, land buyers Texas, vacant land Tampa, vacant land Palm Bay, vacant land Phoenix, cash for land Florida, cash for land Arizona, cash for land Texas, property tax auction, tax deed auction">
+    <meta name="geo.region" content="FL">
+    <meta name="geo.region" content="AZ">
+    <meta name="geo.region" content="TX">
+    <meta name="geo.placename" content="Tampa, Florida">
+    <meta name="geo.placename" content="Palm Bay, Florida">
+    <meta name="geo.placename" content="Phoenix, Arizona">
+    <meta name="geo.position" content="27.9506;-82.4572">
+    <meta name="geo.position" content="28.0345;-80.5887">
+    <meta name="geo.position" content="33.4484;-112.0740">
+    
+    <!-- Open Graph tags for social sharing -->
+    <meta property="og:title" content="Sell Your Land for Cash in Florida, Arizona & Texas | B2A Investments LLC">
+    <meta property="og:description" content="B2A Investments LLC helps landowners in Florida, Arizona, and Texas sell their land for cash. We purchase land before tax deed auctions, serving Tampa FL, Palm Bay FL, and Phoenix AZ areas.">
+    <meta property="og:type" content="business.business">
+    <meta property="og:url" content="https://b2acashbuyers.com/">
+    <meta property="og:image" content="https://images.pexels.com/photos/3184418/pexels-photo-3184418.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2">
+    <meta property="business:contact_data:locality" content="Tampa">
+    <meta property="business:contact_data:region" content="FL">
+    <meta property="business:contact_data:country_name" content="United States">
+    
+    <link rel="canonical" href="https://b2acashbuyers.com/" />
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-ZB35JYXGDD"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-ZB35JYXGDD');
+    </script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="preconnect" href="https://cdnjs.cloudflare.com">
+    <link rel="preconnect" href="https://cdn.tailwindcss.com">
+    <link rel="preconnect" href="https://maps.googleapis.com">
+    <link rel="preconnect" href="https://challenges.cloudflare.com">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        /* General Body Styles */
+        body {
+            font-family: 'Inter', sans-serif;
+            position: relative;
+            overflow-x: hidden;
+        }
+
+        body::before,
+        body::after {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            z-index: -1;
+            pointer-events: none;
+        }
+
+        body::before {
+            background: radial-gradient(circle at 10% 20%, rgba(37, 99, 235, 0.1), transparent 40%);
+        }
+
+        body::after {
+            background: radial-gradient(circle at 90% 80%, rgba(20, 184, 166, 0.1), transparent 40%);
+        }
+
+        /* Gradient Text */
+        .gradient-text {
+            background: linear-gradient(to right, #2563EB, #14B8A6);
+            -webkit-background-clip: text;
+            background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+
+        /* Pro Card Style */
+        .pro-card {
+            background-color: #FFFFFF;
+            padding: 2rem;
+            border-radius: 0.75rem;
+            border: 1px solid #E5E7EB;
+            box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1), 0 2px 4px -2px rgb(0 0 0 / 0.1);
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+            display: flex;
+            flex-direction: column;
+        }
+        .pro-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 15px -3px rgb(0 0 0 / 0.1), 0 4px 6px -4px rgb(0 0 0 / 0.1);
+        }
+
+        /* Form Container Card Style */
+        .pro-card-form {
+            background-color: #FFFFFF;
+            border-radius: 0.75rem;
+            border: 1px solid #E5E7EB;
+            box-shadow: 0 10px 15px -3px rgb(0 0 0 / 0.1), 0 4px 6px -4px rgb(0 0 0 / 0.1);
+        }
+
+        /* Custom style for select dropdown arrow */
+        select.form-select-arrow {
+            -webkit-appearance: none;
+            -moz-appearance: none;
+            appearance: none;
+            background-image: url("data:image/svg+xml;charset=UTF-8,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%236B7280' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3e%3cpolyline points='6 9 12 15 18 9'%3e%3c/polyline%3e%3c/svg%3e");
+            background-repeat: no-repeat;
+            background-position: right 0.75rem center;
+            background-size: 1.25em 1.25em;
+            padding-right: 2.5rem;
+        }
+
+        /* Animation Logic */
+        .form-step {
+            display: none;
+            animation: fadeIn 0.5s ease-in-out;
+        }
+        .form-step.active { display: block; }
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(10px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+        .progress-bar-fill {
+            transition: width 0.4s ease-in-out;
+        }
+        .pac-container {
+            z-index: 1000 !important;
+        }
+        .animate__delay-0-5s {
+            animation-delay: 0.5s;
+        }
+    </style>
+    <script type="text/javascript">
+        (function(c,l,a,r,i,t,y){
+            c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+            t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+            y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+        })(window, document, "clarity", "script", "snd5jgfg98");
+    </script>
+    <script src="https://challenges.cloudflare.com/turnstile/v0/api.js" async defer></script>
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "B2A Cash Buyers",
+      "image": "https://images.pexels.com/photos/3184418/pexels-photo-3184418.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "url": "https://b2acashbuyers.com/",
+      "telephone": "",
+      "address": [
+        {
+          "@type": "PostalAddress",
+          "addressLocality": "Tampa",
+          "addressRegion": "FL",
+          "addressCountry": "US"
+        },
+        {
+          "@type": "PostalAddress", 
+          "addressLocality": "Palm Bay",
+          "addressRegion": "FL",
+          "addressCountry": "US"
+        },
+        {
+          "@type": "PostalAddress",
+          "addressLocality": "Phoenix", 
+          "addressRegion": "AZ",
+          "addressCountry": "US"
+        }
+      ],
+      "areaServed": [
+        {
+          "@type": "GeoCircle",
+          "geoMidpoint": {
+            "@type": "GeoCoordinates",
+            "latitude": 27.9506,
+            "longitude": -82.4572
+          },
+          "geoRadius": "100 miles",
+          "name": "Tampa Bay Area, Florida"
+        },
+        {
+          "@type": "GeoCircle", 
+          "geoMidpoint": {
+            "@type": "GeoCoordinates",
+            "latitude": 28.0345,
+            "longitude": -80.5887
+          },
+          "geoRadius": "100 miles",
+          "name": "Palm Bay Area, Florida"
+        },
+        {
+          "@type": "GeoCircle",
+          "geoMidpoint": {
+            "@type": "GeoCoordinates", 
+            "latitude": 33.4484,
+            "longitude": -112.0740
+          },
+          "geoRadius": "100 miles",
+          "name": "Phoenix Metro Area, Arizona"
+        }
+      ],
+      "description": "B2A Investments LLC is a land buying company serving Florida, Arizona, and Texas. We specialize in purchasing land before tax deed auctions and helping landowners settle property tax obligations. We serve Tampa FL, Palm Bay FL, and Phoenix AZ areas with fair, hassle-free solutions.",
+      "serviceArea": ["Tampa, FL", "Palm Bay, FL", "Phoenix, AZ", "Florida", "Arizona", "Texas"],
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday", 
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "09:00",
+          "closes": "17:00"
+        }
+      ]
+    }
+    </script>
+</head>
+<body class="bg-white text-gray-800">
+
+    <header class="bg-white shadow-sm sticky top-0 z-50">
+        <div class="container mx-auto px-6 py-4 flex justify-between items-center">
+            <h1 class="text-2xl font-bold text-blue-600">B2A Cash Buyers</h1>
+            <a href="#contact-form-section" class="bg-blue-600 text-white font-bold py-2 px-5 rounded-lg hover:bg-blue-700 transition">Get Cash Offer</a>
+        </div>
+    </header>
+
+    <main class="w-full">
+        <!-- HERO SECTION -->
+        <section class="container mx-auto px-6 py-16 md:py-24">
+            <div class="grid md:grid-cols-2 gap-12 items-center">
+                <div class="text-center md:text-left">
+                    <h2 class="text-4xl md:text-6xl font-extrabold leading-tight mb-4 text-gray-800 animate__animated animate__fadeInLeft animate__fast">
+                        <span class="gradient-text">Sell Your Land for Cash</span> in Tampa, Palm Bay & Phoenix
+                    </h2>
+                    <p class="text-lg md:text-xl max-w-2xl mx-auto md:mx-0 mb-8 text-gray-600 animate__animated animate__fadeInLeft animate__fast">B2A Investments LLC specializes in providing landowners in Arizona, Texas, and Florida with fair, hassle-free solutions for their land. We help settle property tax obligations by purchasing land before tax deed auctions, ensuring you avoid auction stress while maximizing your land's value. We also buy land from sellers in general, offering straightforward and equitable transactions with competitive cash offers.</p>
+                    <a href="#contact-form-section" class="inline-block bg-blue-600 text-white font-bold py-4 px-10 rounded-lg text-lg hover:bg-blue-700 transition animate__animated animate__pulse">Get Your Free Offer Now</a>
+                </div>
+                <div class="animate__animated animate__fadeIn animate__slow">
+                    <img src="https://images.pexels.com/photos/3184418/pexels-photo-3184418.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" alt="A team of real estate professionals reviewing documents in a modern office, representing a seamless land selling process." class="rounded-lg shadow-2xl w-full h-auto object-cover" loading="lazy">
+                </div>
+            </div>
+        </section>
+
+
+        <!-- Local Areas We Serve Section -->
+        <section class="bg-white py-20">
+            <div class="container mx-auto px-6">
+                <div class="text-center mb-16">
+                    <h3 class="text-4xl font-bold gradient-text">Local Areas We Serve</h3>
+                    <p class="text-gray-600 mt-3 text-lg">We buy land within 100 miles of these major cities in Florida and Arizona</p>
+                    <div class="text-center mt-12">
+                        <p class="text-lg text-gray-600 mb-6">Don't see your area listed? We may still be able to help! We regularly purchase land throughout Florida and Arizona.</p>
+                        <a href="#contact-form-section" class="inline-block bg-gradient-to-r from-blue-600 to-teal-500 text-white font-bold py-3 px-8 rounded-lg text-lg hover:opacity-90 transition">Contact Us Today</a>
+                    </div>
+                </div>
+                <div class="grid md:grid-cols-3 gap-8">
+                    <!-- Tampa, FL Area -->
+                    <div class="pro-card text-center">
+                        <div class="mb-6">
+                            <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-16 h-16 mx-auto text-blue-600">
+                                <path stroke-linecap="round" stroke-linejoin="round" d="M15 10.5a3 3 0 11-6 0 3 3 0 016 0z" />
+                                <path stroke-linecap="round" stroke-linejoin="round" d="M19.5 10.5c0 7.142-7.5 11.25-7.5 11.25S4.5 17.642 4.5 10.5a7.5 7.5 0 1115 0z" />
+                            </svg>
+                        </div>
+                        <h4 class="text-2xl font-bold text-gray-800 mb-4">Tampa Bay Area, Florida</h4>
+                        <p class="text-gray-600 mb-4">Serving Tampa, St. Petersburg, Clearwater, Brandon, Riverview, Plant City, Wesley Chapel, and surrounding areas within 100 miles.</p>
+                        <ul class="text-sm text-gray-500 space-y-1">
+                            <li>• Hillsborough County</li>
+                            <li>• Pinellas County</li>
+                            <li>• Pasco County</li>
+                            <li>• Polk County</li>
+                        </ul>
+                    </div>
+                    
+                    <!-- Palm Bay, FL Area -->
+                    <div class="pro-card text-center">
+                        <div class="mb-6">
+                            <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-16 h-16 mx-auto text-teal-600">
+                                <path stroke-linecap="round" stroke-linejoin="round" d="M15 10.5a3 3 0 11-6 0 3 3 0 016 0z" />
+                                <path stroke-linecap="round" stroke-linejoin="round" d="M19.5 10.5c0 7.142-7.5 11.25-7.5 11.25S4.5 17.642 4.5 10.5a7.5 7.5 0 1115 0z" />
+                            </svg>
+                        </div>
+                        <h4 class="text-2xl font-bold text-gray-800 mb-4">Space Coast, Florida</h4>
+                        <p class="text-gray-600 mb-4">Serving Palm Bay, Melbourne, Titusville, Cocoa Beach, Vero Beach, Sebastian, and surrounding Space Coast communities within 100 miles.</p>
+                        <ul class="text-sm text-gray-500 space-y-1">
+                            <li>• Brevard County</li>
+                            <li>• Indian River County</li>
+                            <li>• St. Lucie County</li>
+                            <li>• Osceola County</li>
+                        </ul>
+                    </div>
+                    
+                    <!-- Phoenix, AZ Area -->
+                    <div class="pro-card text-center">
+                        <div class="mb-6">
+                            <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-16 h-16 mx-auto text-orange-500">
+                                <path stroke-linecap="round" stroke-linejoin="round" d="M15 10.5a3 3 0 11-6 0 3 3 0 016 0z" />
+                                <path stroke-linecap="round" stroke-linejoin="round" d="M19.5 10.5c0 7.142-7.5 11.25-7.5 11.25S4.5 17.642 4.5 10.5a7.5 7.5 0 1115 0z" />
+                            </svg>
+                        </div>
+                        <h4 class="text-2xl font-bold text-gray-800 mb-4">Phoenix Metro Area, Arizona</h4>
+                        <p class="text-gray-600 mb-4">Serving Phoenix, Scottsdale, Mesa, Tempe, Chandler, Glendale, Peoria, Surprise, and the entire Valley of the Sun within 100 miles.</p>
+                        <ul class="text-sm text-gray-500 space-y-1">
+                            <li>• Maricopa County</li>
+                            <li>• Pinal County</li>
+                            <li>• Yavapai County</li>
+                            <li>• Gila County</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Contact Form Section -->
+        <section id="contact-form-section" class="bg-white py-20">
+            <div class="container mx-auto px-6">
+                <div class="max-w-3xl mx-auto pro-card-form p-8 md:p-12">
+                    <div class="text-center mb-8">
+                        <h3 class="text-3xl font-bold text-gray-800">Get Your Free, No-Obligation Cash Offer</h3>
+                        <p class="text-gray-600 mt-2">Fill out the form below to get started. It only takes a few minutes.</p>
+                    </div>
+                    <div id="progress-bar-container" class="w-full bg-gray-200 rounded-full h-2.5 mb-8">
+                        <div id="progress-bar" class="bg-gradient-to-r from-blue-500 to-teal-400 h-2.5 rounded-full progress-bar-fill" style="width: 25%"></div>
+                    </div>
+                    
+                    <form method="post" id="land-sale-form" action="https://n8n.b2ainvestments.com/webhook/f41cf4b9-813d-4096-b8f9-0c01af2441f4" class="space-y-6">
+                        <!-- Step 1: Contact Information -->
+                        <div class="form-step active" id="step-1">
+                            <h4 class="text-xl font-semibold mb-6 text-center text-gray-700">Section 1: Your Contact Information</h4>
+                            <div class="space-y-4">
+                                <div class="grid grid-cols-1 md:grid-cols-2 md:gap-4">
+                                    <div>
+                                        <label for="firstName" class="block text-sm font-medium text-gray-700">First Name</label>
+                                        <input type="text" id="firstName" name="firstName" class="mt-1 block w-full px-4 py-3 bg-gray-50 border border-gray-300 rounded-lg shadow-sm text-gray-900 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-blue-500" placeholder="e.g., John" required>
+                                    </div>
+                                    <div>
+                                        <label for="lastName" class="block text-sm font-medium text-gray-700">Last Name</label>
+                                        <input type="text" id="lastName" name="lastName" class="mt-1 block w-full px-4 py-3 bg-gray-50 border border-gray-300 rounded-lg shadow-sm text-gray-900 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-blue-500" placeholder="e.g., Doe" required>
+                                    </div>
+                                </div>
+                                <div>
+                                    <label for="email" class="block text-sm font-medium text-gray-700">Email Address</label>
+                                    <input type="email" id="email" name="email" class="mt-1 block w-full px-4 py-3 bg-gray-50 border border-gray-300 rounded-lg shadow-sm text-gray-900 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-blue-500" placeholder="e.g., john.doe@email.com" required>
+                                    <p class="text-xs text-gray-500 mt-1">We respect your privacy and will not share your information.</p>
+                                </div>
+                                <div>
+                                    <label for="phone" class="block text-sm font-medium text-gray-700">Phone Number</label>
+                                    <input type="tel" id="phone" name="phone" class="mt-1 block w-full px-4 py-3 bg-gray-50 border border-gray-300 rounded-lg shadow-sm text-gray-900 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-blue-500" placeholder="e.g., (555) 123-4567" required>
+                                    <p class="text-xs text-gray-500 mt-1">For a quick and confidential conversation about your property.</p>
+                                </div>
+                                <div>
+                                    <label for="mailing_address" class="block text-sm font-medium text-gray-700">Your Current Mailing Address</label>
+                                    <div class="relative">
+                                        <input type="text" id="mailing_address" name="mailing_address" class="mt-1 block w-full px-4 py-3 pr-12 bg-gray-50 border border-gray-300 rounded-lg shadow-sm text-gray-900 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-blue-500" placeholder="e.g., 123 Main St, Anytown, USA 12345" required>
+                                        <div class="absolute inset-y-0 right-0 flex items-center pr-3 pointer-events-none">
+                                            <svg class="h-5 w-5 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path>
+                                            </svg>
+                                        </div>
+                                    </div>
+                                     <p class="text-xs text-gray-500 mt-1">Where we can send any necessary paperwork.</p>
+                                </div>
+                            </div>
+                            <div class="mt-8 text-right">
+                                <button type="button" class="bg-gradient-to-r from-blue-600 to-teal-500 text-white font-bold py-3 px-8 rounded-lg text-lg hover:opacity-90 transition" onclick="nextStep()">Next →</button>
+                            </div>
+                        </div>
+
+                        <!-- Step 2: Property Details -->
+                        <div class="form-step" id="step-2">
+                            <h4 class="text-xl font-semibold mb-6 text-center text-gray-700">Section 2: Property Details</h4>
+                            <div class="space-y-4">
+                                <div>
+                                    <label for="property_address" class="block text-sm font-medium text-gray-700">Full Address of the Land You're Selling</label>
+                                    <div class="relative">
+                                        <input type="text" id="property_address" name="property_address" class="mt-1 block w-full px-4 py-3 pr-12 bg-gray-50 border border-gray-300 rounded-lg shadow-sm text-gray-900 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-blue-500" placeholder="e.g., 456 Country Road, Sometown, USA 54321" required>
+                                        <div class="absolute inset-y-0 right-0 flex items-center pr-3 pointer-events-none">
+                                            <svg class="h-5 w-5 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path>
+                                            </svg>
+                                        </div>
+                                    </div>
+                                    <p class="text-xs text-gray-500 mt-1">Or the closest street address.</p>
+                                </div>
+                                <div>
+                                    <label for="property_owner" class="block text-sm font-medium text-gray-700">Full Name of Legal Property Owner(s)</label>
+                                    <input type="text" id="property_owner" name="property_owner" class="mt-1 block w-full px-4 py-3 bg-gray-50 border border-gray-300 rounded-lg shadow-sm text-gray-900 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-blue-500" placeholder="Please enter the name(s) as they appear on the property deed." required>
+                                </div>
+                                <div>
+                                    <label for="parcel_number" class="block text-sm font-medium text-gray-700">Property Parcel Number (APN)</label>
+                                    <input type="text" id="parcel_number" name="parcel_number" class="mt-1 block w-full px-4 py-3 bg-gray-50 border border-gray-300 rounded-lg shadow-sm text-gray-900 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-blue-500" placeholder="e.g., R0123456">
+                                    <p class="text-xs text-gray-500 mt-1">This helps us quickly locate your property records with the county.</p>
+                                </div>
+                                <div>
+                                    <label for="property_size" class="block text-sm font-medium text-gray-700">Approximate Size of the Property in Acres</label>
+                                    <input type="number" id="property_size" name="property_size" class="mt-1 block w-full px-4 py-3 bg-gray-50 border border-gray-300 rounded-lg shadow-sm text-gray-900 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-blue-500" placeholder="e.g., 5.2" step="any">
+                                    <p class="text-xs text-gray-500 mt-1">An estimate is perfectly fine if you're unsure.</p>
+                                </div>
+                                 <div>
+                                    <label for="zoning" class="block text-sm font-medium text-gray-700">Current Zoning of the Property (if known)</label>
+                                    <select id="zoning" name="zoning" class="form-select-arrow mt-1 block w-full px-4 py-3 bg-gray-50 border border-gray-300 rounded-lg shadow-sm text-gray-900 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-blue-500">
+                                        <option>Residential</option>
+                                        <option>Commercial</option>
+                                        <option>Agricultural</option>
+                                        <option>Industrial</option>
+                                        <option>Other</option>
+                                    </select>
+                                     <p class="text-xs text-gray-500 mt-1">This helps us understand how the land can be used.</p>
+                                </div>
+                                <div>
+                                    <label class="block text-sm font-medium text-gray-700">Does the property have access to utilities?</label>
+                                    <div class="mt-2 space-y-2 sm:space-y-0 sm:flex sm:space-x-4">
+                                        <label class="flex items-center"><input type="checkbox" name="utilities[]" value="Water" class="h-4 w-4 text-blue-600 border-gray-300 rounded focus:ring-blue-500 mr-2"> Water</label>
+                                        <label class="flex items-center"><input type="checkbox" name="utilities[]" value="Sewer" class="h-4 w-4 text-blue-600 border-gray-300 rounded focus:ring-blue-500 mr-2"> Sewer</label>
+                                        <label class="flex items-center"><input type="checkbox" name="utilities[]" value="Electricity" class="h-4 w-4 text-blue-600 border-gray-300 rounded focus:ring-blue-500 mr-2"> Electricity</label>
+                                        <label class="flex items-center"><input type="checkbox" name="utilities[]" value="Gas" class="h-4 w-4 text-blue-600 border-gray-300 rounded focus:ring-blue-500 mr-2"> Gas</label>
+                                        <label class="flex items-center"><input type="checkbox" name="utilities[]" value="Unsure" class="h-4 w-4 text-blue-600 border-gray-300 rounded focus:ring-blue-500 mr-2"> Unsure</label>
+                                    </div>
+                                     <p class="text-xs text-gray-500 mt-1">Please select all that apply.</p>
+                                </div>
+                            </div>
+                            <div class="mt-8 flex justify-between">
+                                <button type="button" class="bg-gray-200 text-gray-800 font-bold py-3 px-8 rounded-lg transition hover:bg-gray-300" onclick="prevStep()">← Back</button>
+                                <button type="button" class="bg-gradient-to-r from-blue-600 to-teal-500 text-white font-bold py-3 px-8 rounded-lg text-lg hover:opacity-90 transition" onclick="nextStep()">Next →</button>
+                            </div>
+                        </div>
+                        
+                        <!-- Step 3: Financial & Situational Information -->
+                        <div class="form-step" id="step-3">
+                            <h4 class="text-xl font-semibold mb-6 text-center text-gray-700">Section 3: Financial & Situational Information</h4>
+                            <div class="space-y-4">
+                                <div>
+                                    <label for="reason_for_selling" class="block text-sm font-medium text-gray-700">What is your primary reason for selling the property?</label>
+                                    <input type="text" id="reason_for_selling" name="reason_for_selling" class="mt-1 block w-full px-4 py-3 bg-gray-50 border border-gray-300 rounded-lg shadow-sm text-gray-900 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-blue-500" placeholder="e.g., Inherited the land, No longer use it, Need the cash">
+                                    <p class="text-xs text-gray-500 mt-1">Understanding your situation helps us tailor the best offer for you.</p>
+                                </div>
+                                <div>
+                                    <label for="purchase_price" class="block text-sm font-medium text-gray-700">How much did you originally purchase the property for?</label>
+                                    <input type="text" id="purchase_price" name="purchase_price" class="mt-1 block w-full px-4 py-3 bg-gray-50 border border-gray-300 rounded-lg shadow-sm text-gray-900 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-blue-500" placeholder="e.g., $20,000">
+                                    <p class="text-xs text-gray-500 mt-1">An approximate number is fine. This gives us a general sense of the property's history.</p>
+                                </div>
+                                <div>
+                                    <label for="amount_owed" class="block text-sm font-medium text-gray-700">Is there anything currently owed on the property?</label>
+                                    <input type="text" id="amount_owed" name="amount_owed" class="mt-1 block w-full px-4 py-3 bg-gray-50 border border-gray-300 rounded-lg shadow-sm text-gray-900 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-blue-500" placeholder="e.g., $5,000 or 'None'" required>
+                                    <p class="text-xs text-gray-500 mt-1">Please provide an estimate of any outstanding mortgage or loans.</p>
+                                </div>
+                                <div>
+                                    <label for="tax_liens" class="block text-sm font-medium text-gray-700">Are there any back taxes or liens on the property?</label>
+                                    <select id="tax_liens" name="tax_liens" class="form-select-arrow mt-1 block w-full px-4 py-3 bg-gray-50 border border-gray-300 rounded-lg shadow-sm text-gray-900 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-blue-500">
+                                        <option>Yes</option>
+                                        <option>No</option>
+                                        <option selected>I'm not sure</option>
+                                    </select>
+                                    <p class="text-xs text-gray-500 mt-1">We can often still purchase properties with liens, so please be upfront.</p>
+                                </div>
+                                <div>
+                                    <label for="desired_price" class="block text-sm font-medium text-gray-700">What is your desired cash price for the property?</label>
+                                    <input type="text" id="desired_price" name="desired_price" class="mt-1 block w-full px-4 py-3 bg-gray-50 border border-gray-300 rounded-lg shadow-sm text-gray-900 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-blue-500" placeholder="e.g., $50,000" required>
+                                    <p class="text-xs text-gray-500 mt-1">Let us know what you'd like to walk away with.</p>
+                                </div>
+                            </div>
+                            <div class="mt-8 flex justify-between">
+                                <button type="button" class="bg-gray-200 text-gray-800 font-bold py-3 px-8 rounded-lg transition hover:bg-gray-300" onclick="prevStep()">← Back</button>
+                                <button type="button" class="bg-gradient-to-r from-blue-600 to-teal-500 text-white font-bold py-3 px-8 rounded-lg text-lg hover:opacity-90 transition" onclick="nextStep()">Next →</button>
+                            </div>
+                        </div>
+
+                        <!-- Step 4: Additional Information -->
+                        <div class="form-step" id="step-4">
+                            <h4 class="text-xl font-semibold mb-6 text-center text-gray-700">Section 4: Additional Information & Final Touches</h4>
+                            <div class="space-y-4">
+                                <div>
+                                     <label for="additional_info" class="block text-sm font-medium text-gray-700">Is there anything else you'd like to share about the property?</label>
+                                     <textarea id="additional_info" name="additional_info" rows="4" class="mt-1 block w-full px-4 py-3 bg-gray-50 border border-gray-300 rounded-lg shadow-sm text-gray-900 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-blue-500" placeholder="e.g., It has a great view, There's a small pond, It's near a new highway project."></textarea>
+                                     <p class="text-xs text-gray-500 mt-1">Any details are helpful!</p>
+                                </div>
+                                <div>
+                                    <label for="how_heard" class="block text-sm font-medium text-gray-700">How did you hear about us?</label>
+                                    <select id="how_heard" name="how_heard" class="form-select-arrow mt-1 block w-full px-4 py-3 bg-gray-50 border border-gray-300 rounded-lg shadow-sm text-gray-900 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-blue-500" required>
+                                        <option>Facebook Ad</option>
+                                        <option>Google Search</option>
+                                        <option>Referral</option>
+                                        <option>Other</option>
+                                    </select>
+                                </div>
+                                <div class="pt-4 text-center">
+                                    <p class="text-sm text-gray-600"><strong>Our Commitment to You:</strong> We are a professional land buying company that provides fair cash offers. By submitting this form, you are under no obligation to sell. We will review your information and contact you within 24-48 hours to discuss a potential offer. Your information will be kept strictly confidential.</p>
+                                    <p class="text-sm text-gray-600 mt-4">By submitting this form, you agree to be contacted by our team. You may receive an initial text from our AI assistant to gather details before connecting you with a human specialist.</p>
+                                </div>
+                            </div>
+                            <div class="mt-8 flex justify-between items-center">
+                                <button type="button" class="bg-gray-200 text-gray-800 font-bold py-3 px-8 rounded-lg transition hover:bg-gray-300" onclick="prevStep()">← Back</button>
+                                <div>
+                                    <div id="turnstile-container"></div>
+                                    <button type="submit" id="submit-button" class="bg-gradient-to-r from-blue-600 to-teal-500 text-white font-bold py-3 px-8 rounded-lg text-lg hover:opacity-90 transition opacity-50 cursor-not-allowed" disabled>Submit Offer Request</button>
+                                </div>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </section>
+
+        <!-- What to Expect Next Section -->
+        <section class="bg-gray-100 py-20">
+            <div class="container mx-auto px-6">
+                <div class="text-center mb-16">
+                    <h3 class="text-4xl font-bold gradient-text">What to Expect Next</h3>
+                    <p class="text-gray-600 mt-3 text-lg">A simple, transparent, and fast process.</p>
+                </div>
+                <div class="grid md:grid-cols-3 gap-8 text-center">
+                    <div class="pro-card">
+                        <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-16 h-16 mx-auto mb-4 text-teal-500">
+                            <path stroke-linecap="round" stroke-linejoin="round" d="M16.862 4.487l1.687-1.688a1.875 1.875 0 112.652 2.652L10.582 16.07a4.5 4.5 0 01-1.897 1.13L6 18l.8-2.685a4.5 4.5 0 011.13-1.897l8.932-8.931zm0 0L19.5 7.125M18 14v4.75A2.25 2.25 0 0115.75 21H5.25A2.25 2.25 0 013 18.75V8.25A2.25 2.25 0 015.25 6H10" />
+                        </svg>
+                        <h4 class="text-xl font-semibold mb-2 text-gray-800">Step 1: Fill Out the Form</h4>
+                        <p class="text-gray-600">Provide us with some basic information about your land through our secure online form. It's quick, easy, and completely confidential.</p>
+                    </div>
+                    <div class="pro-card">
+                        <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-16 h-16 mx-auto mb-4 text-teal-500">
+                            <path stroke-linecap="round" stroke-linejoin="round" d="M12 20.25c4.97 0 9-3.694 9-8.25s-4.03-8.25-9-8.25S3 7.006 3 11.5c0 4.556 4.03 8.25 9 8.25z" />
+                            <path stroke-linecap="round" stroke-linejoin="round" d="M12 12.75a.75.75 0 100-1.5.75.75 0 000 1.5z" />
+                            <path stroke-linecap="round" stroke-linejoin="round" d="M12 18.75a.75.75 0 100-1.5.75.75 0 000 1.5z" />
+                        </svg>
+                        <h4 class="text-xl font-semibold mb-2 text-gray-800">Step 2: Speak With a Specialist</h4>
+                        <p class="text-gray-600">Our land acquisition specialist will review your submission and reach out to you to discuss the details of your property and answer any questions you may have.</p>
+                    </div>
+                    <div class="pro-card">
+                        <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-16 h-16 mx-auto mb-4 text-teal-500">
+                            <path stroke-linecap="round" stroke-linejoin="round" d="M2.25 18.75a60.07 60.07 0 0115.797 2.101c.727.198 1.453-.342 1.453-1.096V18.75M3.75 4.5v.75A.75.75 0 013 6h-.75m0 0v-.375c0-.621.504-1.125 1.125-1.125H20.25M2.25 6v9m18-10.5v.75c0 .414.336.75.75.75h.75m-1.5-1.5h.375c.621 0 1.125.504 1.125 1.125v9.75c0 .621-.504 1.125-1.125 1.125h-15c-.621 0-1.125-.504-1.125-1.125V8.25m18-3.75v3.75m0 0v-3.75m0 0h-3.75m3.75 0v3.75" />
+                        </svg>
+                        <h4 class="text-xl font-semibold mb-2 text-gray-800">Step 3: Get a Cash Offer</h4>
+                        <p class="text-gray-600">Once we have all the necessary information, we will work with our network of developers to get you a competitive, no-obligation cash offer for your land.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer class="bg-gray-100 border-t border-gray-200">
+        <div class="container mx-auto px-6 py-8 text-center text-gray-500">
+            <p>© 2025 B2A Cash Buyers. All Rights Reserved.</p>
+        </div>
+    </footer>
+
+    <script>
+        let currentStep = 0;
+        const steps = document.querySelectorAll(".form-step");
+        const progressBar = document.getElementById("progress-bar");
+        const totalSteps = steps.length;
+
+        function showStep(stepIndex) {
+            steps.forEach((step, index) => {
+                if (index === stepIndex) {
+                    step.classList.add("active");
+                } else {
+                    step.classList.remove("active");
+                }
+            });
+            updateProgressBar();
+        }
+
+        function nextStep() {
+            const currentStepElement = steps[currentStep];
+            const inputs = currentStepElement.querySelectorAll('input[required], select[required], textarea[required]');
+            let allValid = true;
+
+            inputs.forEach(input => {
+                input.classList.remove('border-red-500'); // Reset border color
+                if (!input.value.trim()) {
+                    allValid = false;
+                    input.classList.add('border-red-500');
+                }
+            });
+
+            if (allValid) {
+                if (currentStep < totalSteps - 1) {
+                    currentStep++;
+                    showStep(currentStep);
+
+                    // If we are now on the last step, render Turnstile
+                    if (currentStep === totalSteps - 1) {
+                        setTimeout(function() {
+                            turnstile.render('#turnstile-container', {
+                                sitekey: '0x4AAAAAABnRmkgpCBOu1IOb',
+                                callback: onTurnstileSuccess,
+                            });
+                        }, 1);
+                    }
+                }
+            } else {
+                alert('Please fill all required fields to continue.');
+            }
+        }
+
+        function prevStep() {
+            if (currentStep > 0) {
+                currentStep--;
+                showStep(currentStep);
+            }
+        }
+
+        function updateProgressBar() {
+            const progress = ((currentStep + 1) / totalSteps) * 100;
+            progressBar.style.width = `${progress}%`;
+        }
+        
+        function initAutocomplete() {
+            const mailingAddress = document.getElementById('mailing_address');
+            const propertyAddress = document.getElementById('property_address');
+
+            if (mailingAddress && propertyAddress) {
+                const options = {
+                    componentRestrictions: { country: "us" },
+                    fields: ["address_components", "geometry", "icon", "name", "formatted_address"],
+                    strictBounds: false,
+                };
+
+                new google.maps.places.Autocomplete(mailingAddress, options);
+                new google.maps.places.Autocomplete(propertyAddress, options);
+            }
+        }
+
+        // Initialize the form and load Google Maps API
+        document.addEventListener("DOMContentLoaded", () => {
+            showStep(0);
+
+            // --- Integer-only input validation ---
+            const integerOnlyFields = ['purchase_price', 'amount_owed', 'desired_price'];
+            const propertySizeField = document.getElementById('property_size');
+
+            propertySizeField.addEventListener('input', function(e) {
+                let value = e.target.value;
+                
+                // Allow only numbers and a single decimal point
+                if (value.match(/[^0-9.]/g)) {
+                    e.target.value = value.replace(/[^0-9.]/g, '');
+                }
+
+                // Ensure only one decimal point is present
+                if (value.split('.').length > 2) {
+                    e.target.value = value.substring(0, value.lastIndexOf('.'));
+                }
+            });
+
+            integerOnlyFields.forEach(id => {
+                const input = document.getElementById(id);
+                if (input) {
+                    input.addEventListener('input', function(e) {
+                        e.target.value = e.target.value.replace(/[^0-9]/g, '');
+                    });
+                }
+            });
+            // ------------------------------------
+
+            const form = document.getElementById('land-sale-form');
+            form.addEventListener('submit', function(e) {
+                e.preventDefault();
+                const formData = new FormData(form);
+                const formContainer = document.querySelector('.pro-card-form');
+
+                fetch(form.action, {
+                    method: 'POST',
+                    body: formData
+                })
+                .then(response => {
+                    if (response.ok) {
+                        formContainer.innerHTML = `
+                            <div class="text-center p-8">
+                                <h3 class="text-3xl font-bold text-gray-800">Thank You!</h3>
+                                <p class="text-gray-600 mt-2">Your submission has been received. We will get back to you shortly.</p>
+                            </div>
+                        `;
+                    } else {
+                        return response.text().then(text => { throw new Error(text) });
+                    }
+                })
+                .catch(error => {
+                    console.error('Error:', error);
+                    const errorMessage = document.createElement('p');
+                    errorMessage.className = 'text-red-500 text-center mt-4';
+                    errorMessage.textContent = 'There was an error submitting the form. Please try again later.';
+                    form.appendChild(errorMessage);
+                });
+            });
+
+            // Dynamically load Google Maps API
+            const script = document.createElement('script');
+            script.src = `https://maps.googleapis.com/maps/api/js?key=AIzaSyAEaGRRdN5u9fmhRggX4tIm-CV7efa8_CE&libraries=places&callback=initAutocomplete`;
+            script.async = true;
+            script.defer = true;
+            document.head.appendChild(script);
+        });
+
+        // Make initAutocomplete globally available
+        window.initAutocomplete = initAutocomplete;
+
+        function onTurnstileSuccess(token) {
+            const submitButton = document.getElementById('submit-button');
+            submitButton.disabled = false;
+            submitButton.classList.remove('opacity-50', 'cursor-not-allowed');
+        }
+    </script>
+    
+    <!-- Load animate.css asynchronously to avoid render blocking -->
+    <script>
+        function loadCSS(href) {
+            var cssLink = document.createElement("link");
+            cssLink.rel = "stylesheet";
+            cssLink.href = href;
+            cssLink.media = "print";
+            cssLink.onload = function() { this.media = "all"; };
+            document.getElementsByTagName("head")[0].appendChild(cssLink);
+        }
+        loadCSS("https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css");
+    </script>
+</body>
+</html>
