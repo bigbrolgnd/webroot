@@ -170,11 +170,6 @@
                                     <p class="text-xs text-gray-500 mt-1">We respect your privacy and will not share your information.</p>
                                 </div>
                                 <div>
-                                    <label for="phone" class="block text-sm font-medium text-gray-700">Phone Number</label>
-                                    <input type="tel" id="phone" name="phone" class="mt-1 block w-full px-4 py-3 bg-gray-50 border border-gray-300 rounded-lg shadow-sm text-gray-900 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-blue-500" placeholder="e.g., (555) 123-4567" required>
-                                    <p class="text-xs text-gray-500 mt-1">For a quick and confidential conversation about your property.</p>
-                                </div>
-                                <div>
                                     <label for="mailing_address" class="block text-sm font-medium text-gray-700">Your Current Mailing Address</label>
                                     <div class="relative">
                                         <input type="text" id="mailing_address" name="mailing_address" class="mt-1 block w-full px-4 py-3 pr-12 bg-gray-50 border border-gray-300 rounded-lg shadow-sm text-gray-900 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-blue-500" placeholder="e.g., 123 Main St, Anytown, USA 12345" required>
@@ -296,6 +291,11 @@
                             <h4 class="text-xl font-semibold mb-6 text-center text-gray-700">Section 4: Additional Information & Final Touches</h4>
                             <div class="space-y-4">
                                 <div>
+                                    <label for="phone" class="block text-sm font-medium text-gray-700">Phone Number</label>
+                                    <input type="tel" id="phone" name="phone" class="mt-1 block w-full px-4 py-3 bg-gray-50 border border-gray-300 rounded-lg shadow-sm text-gray-900 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-blue-500" placeholder="e.g., (555) 123-4567" required>
+                                    <p class="text-xs text-gray-500 mt-1">For a quick and confidential conversation about your property.</p>
+                                </div>
+                                <div>
                                      <label for="additional_info" class="block text-sm font-medium text-gray-700">Is there anything else you'd like to share about the property?</label>
                                      <textarea id="additional_info" name="additional_info" rows="4" class="mt-1 block w-full px-4 py-3 bg-gray-50 border border-gray-300 rounded-lg shadow-sm text-gray-900 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-blue-500" placeholder="e.g., It has a great view, There's a small pond, It's near a new highway project."></textarea>
                                      <p class="text-xs text-gray-500 mt-1">Any details are helpful!</p>
@@ -309,9 +309,20 @@
                                         <option>Other</option>
                                     </select>
                                 </div>
+                                <div class="pt-4">
+                                    <label class="flex items-start">
+                                        <input type="checkbox" id="email_opt_in" name="email_opt_in" value="yes" class="h-4 w-4 text-blue-600 border-gray-300 rounded focus:ring-blue-500 mt-1 mr-3 flex-shrink-0">
+                                        <span class="text-sm text-gray-700">By checking this box, I consent to be contacted by B2A LLC via email at the email address provided to discuss my inquiry. I understand this is for direct communication regarding my case and not for marketing purposes.<br><br>View our <a href="terms-and-conditions.html" class="text-blue-600 hover:underline" target="_blank">Terms & Conditions</a> and <a href="privacy-policy.html" class="text-blue-600 hover:underline" target="_blank">Privacy Policy</a>.</span>
+                                    </label>
+                                </div>
+                                <div class="pt-4">
+                                    <label class="flex items-start">
+                                        <input type="checkbox" id="sms_opt_in" name="sms_opt_in" value="yes" class="h-4 w-4 text-blue-600 border-gray-300 rounded focus:ring-blue-500 mt-1 mr-3 flex-shrink-0">
+                                        <span class="text-sm text-gray-700">By submitting this form, you agree to be contacted by our team. You may receive an initial text from our AI assistant to gather details before connecting you with a human specialist.</span>
+                                    </label>
+                                </div>
                                 <div class="pt-4 text-center">
                                     <p class="text-sm text-gray-600"><strong>Our Commitment to You:</strong> We are a professional land buying company that provides fair cash offers. By submitting this form, you are under no obligation to sell. We will review your information and contact you within 24-48 hours to discuss a potential offer. Your information will be kept strictly confidential.</p>
-                                    <p class="text-sm text-gray-600 mt-4">By submitting this form, you agree to be contacted by our team. You may receive an initial text from our AI assistant to gather details before connecting you with a human specialist.</p>
                                 </div>
                                 <input type="hidden" id="g-recaptcha-response" name="g-recaptcha-response">
                             </div>
@@ -329,6 +340,11 @@
     <footer class="bg-gray-100 border-t border-gray-200">
         <div class="container mx-auto px-6 py-8 text-center text-gray-500">
             <p>© 2025 B2A Cash Buyers. All Rights Reserved.</p>
+            <div class="mt-2">
+                <a href="terms-and-conditions.html" class="text-blue-600 hover:underline">Terms & Conditions</a>
+                <span class="mx-2">|</span>
+                <a href="privacy-policy.html" class="text-blue-600 hover:underline">Privacy Policy</a>
+            </div>
         </div>
     </footer>
 
